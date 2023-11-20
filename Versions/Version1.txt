@@ -1,0 +1,51 @@
+ <header>
+        <div class="header-content">
+            <img src="C:\Users\Umesh\Desktop\My Project\Images\logo1.png" alt="Logo">
+            <h1></h1>
+        </div>
+       
+    </header>
+    <main>
+        
+            <div class="Items">
+                <table id="items-img">
+                    <tr>
+	                    <td>
+	                        <img src="https://cdn.codechef.com/download/Contest+images/ROTEST/tshirt.jpeg" alt="T-Shirts" class="Item-img">
+	                    </td>
+	                    <td>
+	                        <img src="https://cdn.codechef.com/download/Contest+images/ROTEST/sunglasses.jpeg" alt="Sun Glasses" class="Item-img">
+	                    </td>
+	                    <td>
+	                        <img src="https://cdn.codechef.com/download/Contest+images/ROTEST/shirts.jpeg" alt="Shirts" class="Item-img">
+	                    </td>
+	                    <td>
+	                        <img src="https://cdn.codechef.com/download/Contest+images/ROTEST/shoes.jpeg" alt="Shoes" class="Item-img">
+	                    </td>
+	                    <td>
+	                        <img src="https://cdn.codechef.com/download/Contest+images/ROTEST/pants.jpeg" alt="Pants" class="Item-img">
+	                    </td>
+	                    <td>
+	                        <img src="https://cdn.codechef.com/download/Contest+images/ROTEST/perfume.jpeg" alt="Perfumes" class="Item-img">
+	                    </td>
+	                </tr>
+                <tbody>
+                    <tr>
+            <td>
+            <a href="Main_html.html">Home</a>
+            </td>
+            <td>
+            <a href="kids.html">kids</a>
+            </td>
+            <td>
+            <a href="Women1.hmtl">Women</a>
+            </td>
+            <td>
+            <a href="Contact.html">Contact</a>
+            </td>
+    </tr>
+    
+    </tbody>
+</div>
+</table>
+</main>
